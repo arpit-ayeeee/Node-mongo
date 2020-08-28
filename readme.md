@@ -1,0 +1,1 @@
+This code show how to interact between a MongoDB server and a node application.
